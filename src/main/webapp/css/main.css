@@ -1,0 +1,78 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 16-abr-2014, 13:36:56
+    Author     : raznara
+*/
+
+
+body {
+    margin:0;
+    padding: 0;
+}
+
+.tituloexamen{
+    text-align: center;
+}
+
+.nombredecolegios{
+    border-right: 2px solid black;
+    height: 600px;
+}
+
+.nombrecolegios{
+    width: 100%;
+}
+
+.rowo{
+    width: 100%;
+}
+
+.col-wz-3{
+    float:left;
+    width: 35%;
+}
+
+.col-wz-9{
+    float:left;
+    width:65%;
+}
+
+.contenedor{
+    width: 100%;
+}
+
+.cabecera{
+    float:left;
+    width: 46%;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.cabecera1{
+    float:left;
+    width: 46%;
+    border: 1px solid black;
+    text-align: left;
+    height: 40px;
+}
+
+.celda{
+    width: 25%;
+    float:left;
+    border: 1px solid black;
+}
+
+.cuerpodetodo{
+    clear:both
+}
+.ultimacolumna{
+    float:left;
+    width: 5%;
+    border: 1px solid black;
+    text-align: center;
+    height: 40px;
+}
